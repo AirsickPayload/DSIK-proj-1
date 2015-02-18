@@ -1,0 +1,18 @@
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTClientCode\bin\Debug\FTClientCode.exe
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTClientCode\bin\Debug\FTClientCode.pdb
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode.Properties.Resources.resources
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode.csproj.GenerateResource.Cache
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode.exe
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode.pdb
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode.csprojResolveAssemblyReference.cache
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTClientCode\obj\Debug\FTClientCode.Form1.resources
+C:\Users\Alan\Desktop\FTClientCode\obj\Debug\FTClientCode.exe
+C:\Users\Alan\Desktop\FTClientCode\obj\Debug\FTClientCode.pdb
+C:\Users\Alan\Desktop\FTClientCode\bin\Debug\FTClientCode.exe
+C:\Users\Alan\Desktop\FTClientCode\bin\Debug\FTClientCode.pdb
+C:\Users\Alan\Desktop\FTClientCode\obj\Debug\FTClientCode.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\FTClientCode\obj\Debug\FTClientCode.Form1.resources
+C:\Users\Alan\Desktop\FTClientCode\obj\Debug\FTClientCode.Properties.Resources.resources
+C:\Users\Alan\Desktop\FTClientCode\obj\Debug\FTClientCode.csproj.GenerateResource.Cache
+D:\Dropbox\Programowanie\Sieci projekt 1\FTClientCode\obj\Debug\FTClientCode.exe
+D:\Dropbox\Programowanie\Sieci projekt 1\FTClientCode\obj\Debug\FTClientCode.pdb

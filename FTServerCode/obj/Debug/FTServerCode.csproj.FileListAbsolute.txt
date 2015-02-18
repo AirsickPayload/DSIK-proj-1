@@ -1,0 +1,10 @@
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTServerCode\bin\Debug\FTServerCode.exe
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTServerCode\bin\Debug\FTServerCode.pdb
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTServerCode\obj\Debug\FTServerCode.Form1.resources
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTServerCode\obj\Debug\FTServerCode.Properties.Resources.resources
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTServerCode\obj\Debug\FTServerCode.csproj.GenerateResource.Cache
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTServerCode\obj\Debug\FTServerCode.exe
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTServerCode\obj\Debug\FTServerCode.pdb
+C:\Users\Jones\Downloads\FileTransfer\FileTransfer\FTServerCode\obj\Debug\FTServerCode.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\FTServerCode\obj\Debug\FTServerCode.exe
+C:\Users\Alan\Desktop\FTServerCode\obj\Debug\FTServerCode.pdb
